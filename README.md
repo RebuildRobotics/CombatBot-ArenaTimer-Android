@@ -1,7 +1,5 @@
 # CombatBot-ArenaTimer-Android
 
-Rebuild{Robotics} - www.rebuildrobotics.fi
-
 *****
 Features:
 *****
