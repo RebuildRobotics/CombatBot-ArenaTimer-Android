@@ -3,7 +3,7 @@
 *****
 Features:
 *****
-- 3 min timer for simulating combat arenas functions
+- 3 min timer for simulating combat arena timer
 - Start countdown
 - Warning when last minute starts
 - Pause
